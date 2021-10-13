@@ -99,13 +99,13 @@ db.alunos.insert({
         }
     ]
 })
-
-//Vale salientar que:
-// - Não é OBRIGATÓRIO o uso de aspas na chave do objeto, porém o uso se é recomendado a fim de evitar catactéres inválidos
-// - Boas práticas:
-// ---- fazer o uso das aspas
-// ---- evitar o uso de caracteres especiais
-// ---- utilizar-se de caracteres em minusculo
-// ---- ex: "padrao_de_uso"
-
 ```
+
+Vale salientar que:
+- Não é OBRIGATÓRIO o uso de aspas na chave do objeto, porém o uso se é recomendado a fim de evitar catactéres inválidos
+- Boas práticas:
+  - fazer o uso das aspas
+  - evitar o uso de caracteres especiais
+  - utilizar-se de caracteres em minusculo
+  - ex: "padrao_de_uso"
+  
